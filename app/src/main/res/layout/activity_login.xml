@@ -6,7 +6,7 @@
     android:background="#ffffff"
     android:rotationX="4"
     android:theme="@style/ThemeOverlay.Vellog_login.FullscreenContainer"
-    tools:context=".">
+    tools:context=".Login">
 
 
     <LinearLayout
